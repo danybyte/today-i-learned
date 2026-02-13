@@ -1,5 +1,5 @@
 Today I delved into the **Model Context Protocol (MCP)**. It’s a revolutionary open standard designed to solve one of the biggest hurdles in AI development: **Context Fragmentation.**
-
+ 
 ---
 
 ### 🌐 What is MCP?
