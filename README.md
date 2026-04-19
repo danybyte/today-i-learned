@@ -5,3 +5,5 @@
   * [variable](https://github.com/danybyte/today-i-learned/blob/main/C/variable.c)
   * [format specifiers](https://github.com/danybyte/today-i-learned/blob/main/C/format_specifiers.c)
   * [input](https://github.com/danybyte/today-i-learned/blob/main/C/input.c)
+* ** Linux
+* [I/O Redirection](https://github.com/danybyte/today-i-learned/blob/main/Linux/I%20O%20Redirection.MD)
