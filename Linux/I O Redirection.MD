@@ -31,3 +31,4 @@ ls /bin /usr/bin | sort | uniq | wc -|
 counts unique program names in /bin and /usr/bin
 
 
+I hope that I and all the people of my country can have at least the bare minimum needs of our life: internet, a simple life, comfort, and security (not war and killing of people by the government itself)
