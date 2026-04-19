@@ -6,3 +6,7 @@ Hello, I am inside Iran. It has been around 40 or 50 days (I've forgotten exactl
 | stdout | Standard Output    | 1               |Screan               |
 | stderr | Standard Error     | 2               |Screan               |
 
+## Redirection orerators:
+| operators | meaning | example |
+|-----------|---------|---------|
+| >         | redirect stdout to file (overwrite) | ls > list.txt |
