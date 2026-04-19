@@ -7,6 +7,11 @@ Hello, I am inside Iran. It has been around 40 or 50 days (I've forgotten exactl
 | stderr | Standard Error     | 2               |Screan               |
 
 ## Redirection orerators:
-| operators | meaning | example |
-|-----------|---------|---------|
-| >         | redirect stdout to file (overwrite) | ls > list.txt |
+| operators | meaning                                       | example               |
+|-----------|-----------------------------------------------|-----------------------|
+| >         | redirect stdout to file (overwrite)           | ls > list.txt         |
+| >>        | redirect stdout to file                       | echo 'hi' >> list.txt |
+| 2>        | redirect stderr to file                       | ls fake 2> err.txt    |
+| &>        | redirect stdin and stderr to file             | ls fake &> all.txt    |
+| <         | redirect stdin from file                      | cat < file.txt        |
+| |         | pipe stdout of left command to stdin of right | ls | grep foo         |
