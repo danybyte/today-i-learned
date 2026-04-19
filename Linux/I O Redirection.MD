@@ -14,4 +14,4 @@ Hello, I am inside Iran. It has been around 40 or 50 days (I've forgotten exactl
 | 2>        | redirect stderr to file                       | ls fake 2> err.txt    |
 | &>        | redirect stdin and stderr to file             | ls fake &> all.txt    |
 | <         | redirect stdin from file                      | cat < file.txt        |
-| &#124     | pipe stdout of left command to stdin of right | ls &#124 grep foo     |
+| &#124;    | pipe stdout of left command to stdin of right | ls &#124; grep foo    |
