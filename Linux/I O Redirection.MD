@@ -24,7 +24,7 @@ command > output.txt 2>&1
 ```
 2>&1 means "send stderr to where stdout is currently going"
 
-##pipeline example:
+## pipeline example:
 ``` bash
 ls /bin /usr/bin | sort | uniq | wc -|
 ```
