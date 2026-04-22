@@ -8,3 +8,4 @@
 * **Linux**
   * [I/O Redirection](https://github.com/danybyte/today-i-learned/blob/main/Linux/I%20O%20Redirection.MD)
   * [pipeline](https://github.com/danybyte/today-i-learned/blob/main/Linux/pipeline.md)
+  * [cat](https://github.com/danybyte/today-i-learned/blob/main/Linux/cat.md)
