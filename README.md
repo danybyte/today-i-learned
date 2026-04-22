@@ -6,4 +6,5 @@
   * [format specifiers](https://github.com/danybyte/today-i-learned/blob/main/C/format_specifiers.c)
   * [input](https://github.com/danybyte/today-i-learned/blob/main/C/input.c)
 * **Linux**
-* [I/O Redirection](https://github.com/danybyte/today-i-learned/blob/main/Linux/I%20O%20Redirection.MD)
+  * [I/O Redirection](https://github.com/danybyte/today-i-learned/blob/main/Linux/I%20O%20Redirection.MD)
+  * [pipeline](https://github.com/danybyte/today-i-learned/blob/main/Linux/pipeline.md)
