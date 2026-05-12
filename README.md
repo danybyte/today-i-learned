@@ -1,4 +1,4 @@
-### Here is what i learned from `Feb 13, 2026`
+### This is what I learned from `February 13, 2026`, or the technologies I worked with and tested.
 
 * **Communication Protocol**
   * [MCP](https://github.com/danybyte/today-i-learned/blob/main/MCP(model%20context%20protocol).md)
