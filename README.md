@@ -13,5 +13,6 @@
   * [cat](https://github.com/danybyte/today-i-learned/blob/main/Linux/cat.md)
   * [WC](https://github.com/danybyte/today-i-learned/blob/main/Linux/wc.md)
   * [echo](https://github.com/danybyte/today-i-learned/blob/main/Linux/echo.md)
+  * [grep](https://github.com/danybyte/today-i-learned/blob/main/Linux/grep.md)
 *  **React**
   * [useState](https://github.com/danybyte/today-i-learned/blob/main/React/useState.md) 
