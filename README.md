@@ -12,5 +12,6 @@
   * [pipeline](https://github.com/danybyte/today-i-learned/blob/main/Linux/pipeline.md)
   * [cat](https://github.com/danybyte/today-i-learned/blob/main/Linux/cat.md)
   * [WC](https://github.com/danybyte/today-i-learned/blob/main/Linux/wc.md)
-* **React**
+  * [echo](https://github.com/danybyte/today-i-learned/blob/main/Linux/echo.md)
+*  **React**
   * [useState](https://github.com/danybyte/today-i-learned/blob/main/React/useState.md) 
