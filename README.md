@@ -15,5 +15,6 @@
   * [echo](https://github.com/danybyte/today-i-learned/blob/main/Linux/echo.md)
   * [grep](https://github.com/danybyte/today-i-learned/blob/main/Linux/grep.md)
   * [sed](https://github.com/danybyte/today-i-learned/blob/main/Linux/sed.md)
+  * [cut](https://github.com/danybyte/today-i-learned/blob/main/Linux/cut.md)
 *  **React**
   * [useState](https://github.com/danybyte/today-i-learned/blob/main/React/useState.md) 
