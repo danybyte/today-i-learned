@@ -20,3 +20,4 @@
   * [useState](https://github.com/danybyte/today-i-learned/blob/main/React/useState.md) 
 *  **SQL**
   * [data types](https://github.com/danybyte/today-i-learned/blob/main/sql/data-types.md)
+  * [create database](https://github.com/danybyte/today-i-learned/blob/main/sql/create-db.md)
