@@ -18,3 +18,5 @@
   * [cut](https://github.com/danybyte/today-i-learned/blob/main/Linux/cut.md)
 *  **React**
   * [useState](https://github.com/danybyte/today-i-learned/blob/main/React/useState.md) 
+*  **SQL**
+  * [data types](https://github.com/danybyte/today-i-learned/blob/main/sql/data-types.md)
