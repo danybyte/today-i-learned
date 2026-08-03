@@ -21,3 +21,5 @@
 *  **SQL**
   * [data types](https://github.com/danybyte/today-i-learned/blob/main/sql/data-types.md)
   * [create database](https://github.com/danybyte/today-i-learned/blob/main/sql/create-db.md)
+*  **Django**
+  * [intro and MVT](https://github.com/danybyte/today-i-learned/blob/main/Django/intro-and-MVT.md) 
