@@ -121,7 +121,7 @@ python manage.py runserver
 
 ---
 
-read [MVT.md](./intro-and-MVT.md) for how these pieces fit together.
+read [intro-and-MVT.md](./intro-and-MVT.md) for how these pieces fit together.
 
 ---
 
