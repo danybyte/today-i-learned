@@ -110,4 +110,4 @@ Forgetting to activate the environment before installing packages. If you run `p
 
 ## Source
 
-Based on [W3Schools Django Get Started](https://www.w3schools.com/django).
+Based on [W3Schools Django](https://www.w3schools.com/django).
