@@ -23,4 +23,4 @@
   * [create database](https://github.com/danybyte/today-i-learned/blob/main/sql/create-db.md)
 *  **Django**
   * [intro and MVT](https://github.com/danybyte/today-i-learned/blob/main/Django/intro-and-MVT.md)
-  * [venv and django setup](https://github.com/danybyte/today-i-learned/blob/main/Django/venv-django-setup.md))
+  * [venv and django setup](https://github.com/danybyte/today-i-learned/blob/main/Django/venv-django-setup.md)
