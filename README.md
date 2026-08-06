@@ -24,3 +24,5 @@
 *  **Django**
   * [intro and MVT](https://github.com/danybyte/today-i-learned/blob/main/Django/intro-and-MVT.md)
   * [venv and django setup](https://github.com/danybyte/today-i-learned/blob/main/Django/venv-django-setup.md)
+  * [create project](https://github.com/danybyte/today-i-learned/blob/main/Django/create-project.md)
+  * [create app](https://github.com/danybyte/today-i-learned/blob/main/Django/create-app.md)
